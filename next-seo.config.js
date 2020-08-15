@@ -1,4 +1,4 @@
-const BASE_URL = 'https://miraklasiaf.now.sh';
+const BASE_URL = 'https://next-chakra-starter.vercel.app';
 
 const title = 'Next Chakra Starter';
 const description = 'Next.js with Chakra UI Starter Template';
